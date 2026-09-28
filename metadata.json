@@ -1,0 +1,8 @@
+{
+  "name": "CinéScope",
+  "description": "Trouvez où regarder vos films en streaming selon vos abonnements (Netflix, Disney+, Prime Video, Canal+, etc.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
